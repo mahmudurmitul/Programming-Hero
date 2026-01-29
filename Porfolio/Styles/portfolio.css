@@ -36,7 +36,7 @@ nav .menu{
 .section-heading{
     max-width: 827px;
     text-align: center;
-    margin: 0, auto;
+    margin: 0 auto;
 }
 .section-heading h2{
     font-size: 35px;
@@ -140,11 +140,10 @@ nav .menu a{
 
 #skills{
     padding-top: 130px;
-    margin: 0 auto;
+    
 
 
 }
-
 #skills .skills-container{
     width: 71%;
     max-width: 1140px;
